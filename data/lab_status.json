@@ -1,0 +1,6 @@
+{
+  "q1": {
+    "running": false,
+    "logs": "/home/h/git/tinykuberneteslab/data/logs/q1_error_logs.txt"
+  }
+}
